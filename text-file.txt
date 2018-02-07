@@ -2,4 +2,4 @@ Omar
 
 Natour
 
-next
+prev
